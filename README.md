@@ -91,77 +91,77 @@ https://blog.limitrack.com/howto-anydesk/
 # country list of DENSO
 - Eatern Asia
     1.  China
-        - Chongqing Chaoli Electric Appliance Co., Ltd.
-        - DENSO AIR SYSTEMS TIANJIN CO., LTD.
-        - DENSO (CHANGZHOU) FUEL INJECTION SYSTEM CO., LTD.
-        - DENSO FA SHANGHAI CO., LTD
-        - DENSO (GUANGZHOU NANSHA) CO., LTD.
-        - DENSO KOTEI AUTOMOTIVE ELECTRONICS (WUHAN) CO., LTD
-        - DENSO MANUFACTURING (HANGZHOU) CO., LTD.
-        - DENSO MANUFACTURING (TIANJIN) MOTOR CO., LTD.
-        - DENSO TEN ELECTRONICS (WUXI) Limited
-        - DENSO TEN PRECISION ELECTRONICS (TIANJIN) Limited
-        - DENSO (TIANJIN) BODY PARTS CO., LTD.
-        - DENSO (TIANJIN) THERMAL PRODUCTS CO., LTD.
-        - GONGCHENG DENSO (CHONGQING) CO., LTD
-        - GUANGZHOU DENSO CO., LTD.
-        - Liuzhou Chaoli Car Parts Manufacturing Co., Ltd.
-        - Nanjing Voaasco Auto Parts Co., Ltd.
-        - Ningbo Hangzhou Bay New District Chaoli Auto Parts Manufacturing Co., Ltd.
-        - Qingdao Chaoli Car Parts Manufacturing Co., Ltd.
-        - TIANJIN DENSO ELECTRONICS CO., LTD.
-        - TIANJIN DENSO ENGINE ELECTRICAL PRODUCTS CO., LTD.
-        - TIANJIN FAWER DENSO AIR-CONDITIONER CO., LTD.
-        - WUXI DENSO AUTOMOTIVE PRODUCTS CO., LTD.
-        - Yantai Chaoli Auto Electrical Parts Co., LTD
-        - YANTAI SHOUGANG DENSO CO., LTD.
+        1. Chongqing Chaoli Electric Appliance Co., Ltd.
+        2. DENSO AIR SYSTEMS TIANJIN CO., LTD.
+        3. DENSO (CHANGZHOU) FUEL INJECTION SYSTEM CO., LTD.
+        4. DENSO FA SHANGHAI CO., LTD
+        5. DENSO (GUANGZHOU NANSHA) CO., LTD.
+        6. DENSO KOTEI AUTOMOTIVE ELECTRONICS (WUHAN) CO., LTD
+        7. DENSO MANUFACTURING (HANGZHOU) CO., LTD.
+        8. DENSO MANUFACTURING (TIANJIN) MOTOR CO., LTD.
+        9. DENSO TEN ELECTRONICS (WUXI) Limited
+        10. DENSO TEN PRECISION ELECTRONICS (TIANJIN) Limited
+        11. DENSO (TIANJIN) BODY PARTS CO., LTD.
+        12. DENSO (TIANJIN) THERMAL PRODUCTS CO., LTD.
+        13. GONGCHENG DENSO (CHONGQING) CO., LTD
+        14. GUANGZHOU DENSO CO., LTD.
+        15. Liuzhou Chaoli Car Parts Manufacturing Co., Ltd.
+        16. Nanjing Voaasco Auto Parts Co., Ltd.
+        17. Ningbo Hangzhou Bay New District Chaoli Auto Parts Manufacturing Co., Ltd.
+        18. Qingdao Chaoli Car Parts Manufacturing Co., Ltd.
+        19. TIANJIN DENSO ELECTRONICS CO., LTD.
+        20. TIANJIN DENSO ENGINE ELECTRICAL PRODUCTS CO., LTD.
+        21. TIANJIN FAWER DENSO AIR-CONDITIONER CO., LTD.
+        22. WUXI DENSO AUTOMOTIVE PRODUCTS CO., LTD.
+        23. Yantai Chaoli Auto Electrical Parts Co., LTD
+        24. YANTAI SHOUGANG DENSO CO., LTD.
     2.  South Korea
-        - DENSO KOREA CORPORATION
-        - KOREA WIPER BLADE CO., LTD.
+        1. DENSO KOREA CORPORATION
+        2. KOREA WIPER BLADE CO., LTD.
     3.  Taiwan
-        - DENSO TAIWAN CORP.
+        1. DENSO TAIWAN CORP.
     4.  Japan
-        - Anjo Plant
-        - Nishio Plant
-        - Takatana Plant
-        - Kosai Plant
-        - Daian Plant
-        - Kota Plant
-        - Toyohashi Plant
-        - Hirose Plant
-        - Agui Plant
-        - Toyohashi East Plant
-        - Zenmyo Plant
-        - APINES INC.
-        - DENSO AIRCOOL CORPORATION
-        - DENSO AIR SYSTEMS CORPORATION
-        - DENSO DAISHIN CORPORATION
-        - DENSO ELECTRONICS CORPORATION
-        - DENSO FA YAMAGATA CO., LTD.
-        - DENSO FUKUSHIMA CORPORATION
-        - DENSO HOKKAIDO CORPORATION
-        - DENSO IWATE CORPORATION
-        - DENSO KATSUYAMA CO., LTD.
-        - DENSO KYUSHU CORPORATION
-        - DENSO MIYAZAKI, INC.
-        - DENSO PRESS TECH CO., LTD. 
-        - DENSO SANKYO CO., LTD.
-        - DENSO TAIYO CO., LTD.
-        - DENSO TEN Limited
-        - DENSO TEN TECHNOSEPTA Limited
-        - DENSO TRIM CORPORATION
-        - DENSO WAVE INCORPORATED
-        - DENSO WIPER SYSTEMS, INC.
-        - DENSO WISETECH CORPORATION
-        - DENSO YAMAGATA CO., LTD.
-        - HAMADEN P.S CO.,LTD.
-        - HAMANAKODENSO CO., LTD.
-        - JECO CO., LTD.
-        - KYOSAN DENKI CO., LTD.
-        - KYOSAN TECS CO., LTD.
-        - MAULTECH CORPORATION
-        - NAGANO JECO CO., LTD.
-        - SHIMIZU INDUSTRY CO., LTD.
+        1. Anjo Plant
+        2. Nishio Plant
+        3. Takatana Plant
+        4. Kosai Plant
+        5. Daian Plant
+        6. Kota Plant
+        7. Toyohashi Plant
+        8. Hirose Plant
+        9. Agui Plant
+        10. Toyohashi East Plant
+        11. Zenmyo Plant
+        12. APINES INC.
+        13. DENSO AIRCOOL CORPORATION
+        14. DENSO AIR SYSTEMS CORPORATION
+        15. DENSO DAISHIN CORPORATION
+        16. DENSO ELECTRONICS CORPORATION
+        17. DENSO FA YAMAGATA CO., LTD.
+        18. DENSO FUKUSHIMA CORPORATION
+        19. DENSO HOKKAIDO CORPORATION
+        20. DENSO IWATE CORPORATION
+        21. DENSO KATSUYAMA CO., LTD.
+        22. DENSO KYUSHU CORPORATION
+        23. DENSO MIYAZAKI, INC.
+        24. DENSO PRESS TECH CO., LTD. 
+        25. DENSO SANKYO CO., LTD.
+        26. DENSO TAIYO CO., LTD.
+        27. DENSO TEN Limited
+        28. DENSO TEN TECHNOSEPTA Limited
+        29. DENSO TRIM CORPORATION
+        30. DENSO WAVE INCORPORATED
+        31. DENSO WIPER SYSTEMS, INC.
+        32. DENSO WISETECH CORPORATION
+        33. DENSO YAMAGATA CO., LTD.
+        34. HAMADEN P.S CO.,LTD.
+        35. HAMANAKODENSO CO., LTD.
+        36. JECO CO., LTD.
+        37. KYOSAN DENKI CO., LTD.
+        38. KYOSAN TECS CO., LTD.
+        39. MAULTECH CORPORATION
+        40. NAGANO JECO CO., LTD.
+        41. SHIMIZU INDUSTRY CO., LTD.
 - Southern Asia
     1.  India
         - DENSO HARYANA PVT. LTD.
@@ -207,15 +207,15 @@ https://blog.limitrack.com/howto-anydesk/
     1.  South Africa
 - North America
     1.  USA
-        - DENSO AIR SYSTEMS KENTUCKY,INC.
-        - DENSO MANUFACTURING ARKANSAS, INC.
-        - DENSO MANUFACTURING ATHENS TENNESSEE, INC.
-        - DENSO MANUFACTURING MICHIGAN, INC.
-        - DENSO MANUFACTURING NORTH CAROLINA, INC.
-        - DENSO MANUFACTURING TENNESSEE, INC.
-        - DENSO TEN TECHNOSEPTA USA, Limited
-        - YSTEX PRODUCTS ARKANSAS COMPANY
-        - SYSTEX PRODUCTS CORPORATION
+        1. DENSO AIR SYSTEMS KENTUCKY,INC.
+        2. DENSO MANUFACTURING ARKANSAS, INC.
+        3. DENSO MANUFACTURING ATHENS TENNESSEE, INC.
+        4. DENSO MANUFACTURING MICHIGAN, INC.
+        5. DENSO MANUFACTURING NORTH CAROLINA, INC.
+        6. DENSO MANUFACTURING TENNESSEE, INC.
+        7. DENSO TEN TECHNOSEPTA USA, Limited
+        8. YSTEX PRODUCTS ARKANSAS COMPANY
+        9. SYSTEX PRODUCTS CORPORATION
     2.  Mexico
         - DENSO AIR SYSTEMS DE MEXICO S.A.DE C.V.
         - DENSO MEXICO S.A. DE C.V.
