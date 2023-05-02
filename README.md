@@ -91,174 +91,174 @@ https://blog.limitrack.com/howto-anydesk/
 # country list of DENSO
 - Eatern Asia
     1.  China
-      - Chongqing Chaoli Electric Appliance Co., Ltd.
-      - DENSO AIR SYSTEMS TIANJIN CO., LTD.
-      - DENSO (CHANGZHOU) FUEL INJECTION SYSTEM CO., LTD.
-      - DENSO FA SHANGHAI CO., LTD
-      - DENSO (GUANGZHOU NANSHA) CO., LTD.
-      - DENSO KOTEI AUTOMOTIVE ELECTRONICS (WUHAN) CO., LTD
-      - DENSO MANUFACTURING (HANGZHOU) CO., LTD.
-      - DENSO MANUFACTURING (TIANJIN) MOTOR CO., LTD.
-      - DENSO TEN ELECTRONICS (WUXI) Limited
-      - DENSO TEN PRECISION ELECTRONICS (TIANJIN) Limited
-      - DENSO (TIANJIN) BODY PARTS CO., LTD.
-      - DENSO (TIANJIN) THERMAL PRODUCTS CO., LTD.
-      - GONGCHENG DENSO (CHONGQING) CO., LTD
-      - GUANGZHOU DENSO CO., LTD.
-      - Liuzhou Chaoli Car Parts Manufacturing Co., Ltd.
-      - Nanjing Voaasco Auto Parts Co., Ltd.
-      - Ningbo Hangzhou Bay New District Chaoli Auto Parts Manufacturing Co., Ltd.
-      - Qingdao Chaoli Car Parts Manufacturing Co., Ltd.
-      - TIANJIN DENSO ELECTRONICS CO., LTD.
-      - TIANJIN DENSO ENGINE ELECTRICAL PRODUCTS CO., LTD.
-      - TIANJIN FAWER DENSO AIR-CONDITIONER CO., LTD.
-      - WUXI DENSO AUTOMOTIVE PRODUCTS CO., LTD.
-      - Yantai Chaoli Auto Electrical Parts Co., LTD
-      - YANTAI SHOUGANG DENSO CO., LTD.
+        - Chongqing Chaoli Electric Appliance Co., Ltd.
+        - DENSO AIR SYSTEMS TIANJIN CO., LTD.
+        - DENSO (CHANGZHOU) FUEL INJECTION SYSTEM CO., LTD.
+        - DENSO FA SHANGHAI CO., LTD
+        - DENSO (GUANGZHOU NANSHA) CO., LTD.
+        - DENSO KOTEI AUTOMOTIVE ELECTRONICS (WUHAN) CO., LTD
+        - DENSO MANUFACTURING (HANGZHOU) CO., LTD.
+        - DENSO MANUFACTURING (TIANJIN) MOTOR CO., LTD.
+        - DENSO TEN ELECTRONICS (WUXI) Limited
+        - DENSO TEN PRECISION ELECTRONICS (TIANJIN) Limited
+        - DENSO (TIANJIN) BODY PARTS CO., LTD.
+        - DENSO (TIANJIN) THERMAL PRODUCTS CO., LTD.
+        - GONGCHENG DENSO (CHONGQING) CO., LTD
+        - GUANGZHOU DENSO CO., LTD.
+        - Liuzhou Chaoli Car Parts Manufacturing Co., Ltd.
+        - Nanjing Voaasco Auto Parts Co., Ltd.
+        - Ningbo Hangzhou Bay New District Chaoli Auto Parts Manufacturing Co., Ltd.
+        - Qingdao Chaoli Car Parts Manufacturing Co., Ltd.
+        - TIANJIN DENSO ELECTRONICS CO., LTD.
+        - TIANJIN DENSO ENGINE ELECTRICAL PRODUCTS CO., LTD.
+        - TIANJIN FAWER DENSO AIR-CONDITIONER CO., LTD.
+        - WUXI DENSO AUTOMOTIVE PRODUCTS CO., LTD.
+        - Yantai Chaoli Auto Electrical Parts Co., LTD
+        - YANTAI SHOUGANG DENSO CO., LTD.
     2.  South Korea
-      - DENSO KOREA CORPORATION
-      - KOREA WIPER BLADE CO., LTD.
+        - DENSO KOREA CORPORATION
+        - KOREA WIPER BLADE CO., LTD.
     3.  Taiwan
-      - DENSO TAIWAN CORP.
+        - DENSO TAIWAN CORP.
     4.  Japan
-      - Anjo Plant
-      - Nishio Plant
-      - Takatana Plant
-      - Kosai Plant
-      - Daian Plant
-      - Kota Plant
-      - Toyohashi Plant
-      - Hirose Plant
-      - Agui Plant
-      - Toyohashi East Plant
-      - Zenmyo Plant
-      - APINES INC.
-      - DENSO AIRCOOL CORPORATION
-      - DENSO AIR SYSTEMS CORPORATION
-      - DENSO DAISHIN CORPORATION
-      - DENSO ELECTRONICS CORPORATION
-      - DENSO FA YAMAGATA CO., LTD.
-      - DENSO FUKUSHIMA CORPORATION
-      - DENSO HOKKAIDO CORPORATION
-      - DENSO IWATE CORPORATION
-      - DENSO KATSUYAMA CO., LTD.
-      - DENSO KYUSHU CORPORATION
-      - DENSO MIYAZAKI, INC.
-      - DENSO PRESS TECH CO., LTD. 
-      - DENSO SANKYO CO., LTD.
-      - DENSO TAIYO CO., LTD.
-      - DENSO TEN Limited
-      - DENSO TEN TECHNOSEPTA Limited
-      - DENSO TRIM CORPORATION
-      - DENSO WAVE INCORPORATED
-      - DENSO WIPER SYSTEMS, INC.
-      - DENSO WISETECH CORPORATION
-      - DENSO YAMAGATA CO., LTD.
-      - HAMADEN P.S CO.,LTD.
-      - HAMANAKODENSO CO., LTD.
-      - JECO CO., LTD.
-      - KYOSAN DENKI CO., LTD.
-      - KYOSAN TECS CO., LTD.
-      - MAULTECH CORPORATION
-      - NAGANO JECO CO., LTD.
-      - SHIMIZU INDUSTRY CO., LTD.
+        - Anjo Plant
+        - Nishio Plant
+        - Takatana Plant
+        - Kosai Plant
+        - Daian Plant
+        - Kota Plant
+        - Toyohashi Plant
+        - Hirose Plant
+        - Agui Plant
+        - Toyohashi East Plant
+        - Zenmyo Plant
+        - APINES INC.
+        - DENSO AIRCOOL CORPORATION
+        - DENSO AIR SYSTEMS CORPORATION
+        - DENSO DAISHIN CORPORATION
+        - DENSO ELECTRONICS CORPORATION
+        - DENSO FA YAMAGATA CO., LTD.
+        - DENSO FUKUSHIMA CORPORATION
+        - DENSO HOKKAIDO CORPORATION
+        - DENSO IWATE CORPORATION
+        - DENSO KATSUYAMA CO., LTD.
+        - DENSO KYUSHU CORPORATION
+        - DENSO MIYAZAKI, INC.
+        - DENSO PRESS TECH CO., LTD. 
+        - DENSO SANKYO CO., LTD.
+        - DENSO TAIYO CO., LTD.
+        - DENSO TEN Limited
+        - DENSO TEN TECHNOSEPTA Limited
+        - DENSO TRIM CORPORATION
+        - DENSO WAVE INCORPORATED
+        - DENSO WIPER SYSTEMS, INC.
+        - DENSO WISETECH CORPORATION
+        - DENSO YAMAGATA CO., LTD.
+        - HAMADEN P.S CO.,LTD.
+        - HAMANAKODENSO CO., LTD.
+        - JECO CO., LTD.
+        - KYOSAN DENKI CO., LTD.
+        - KYOSAN TECS CO., LTD.
+        - MAULTECH CORPORATION
+        - NAGANO JECO CO., LTD.
+        - SHIMIZU INDUSTRY CO., LTD.
 - Southern Asia
     1.  India
-      - DENSO HARYANA PVT. LTD.
-      - DENSO INDIA PVT. LTD.
-      - DENSO KIRLOSKAR INDUSTRIES PVT. LTD.
-      - DENSO TEN MINDA INDIA Private Limited
-      - DENSO THERMAL SYSTEMS PUNE PVT.LTD.
+        - DENSO HARYANA PVT. LTD.
+        - DENSO INDIA PVT. LTD.
+        - DENSO KIRLOSKAR INDUSTRIES PVT. LTD.
+        - DENSO TEN MINDA INDIA Private Limited
+        - DENSO THERMAL SYSTEMS PUNE PVT.LTD.
 - South-Eastern Asia
     1.  Indonesia
-      - PT. DENSO INDONESIA
-      - PT. DENSO MANUFACTURING INDONESIA
-      - PT. HAMADEN INDONESIA MANUFACTURING
+        - PT. DENSO INDONESIA
+        - PT. DENSO MANUFACTURING INDONESIA
+        - PT. HAMADEN INDONESIA MANUFACTURING
     2.  Thailand
-      - AIR SYSTEMS (THAILAND) CO., LTD.
-      - DENSO ELECTRONICS (THAILAND) Co., LTD.
-      - DENSO (THAILAND) CO., LTD.
-      - DENSO TEN THAILAND Limited
-      - DENSO INNOVATIVE MANUFACTURING SOLUTION ASIA CO., LTD.
-      - SIAM DENSO MANUFACTURING CO., LTD.
-      - IAM KYOSAN DENSO CO., LTD.
+        - AIR SYSTEMS (THAILAND) CO., LTD.
+        - DENSO ELECTRONICS (THAILAND) Co., LTD.
+        - DENSO (THAILAND) CO., LTD.
+        - DENSO TEN THAILAND Limited
+        - DENSO INNOVATIVE MANUFACTURING SOLUTION ASIA CO., LTD.
+        - SIAM DENSO MANUFACTURING CO., LTD.
+        - IAM KYOSAN DENSO CO., LTD.
     3.  Singapore
     4.  Vietnam
-      - DENSO MANUFACTURING VIETNAM CO., LTD.
-      - HAMADEN VIETNAM CO., LTD.
+        - DENSO MANUFACTURING VIETNAM CO., LTD.
+        - HAMADEN VIETNAM CO., LTD.
     5.  Cambodia
-      - DENSO (CAMBODIA) Co., Ltd.
-      - SANKYO RADIATOR (CAMBODIA) CO., LTD.
+        - DENSO (CAMBODIA) Co., Ltd.
+        - SANKYO RADIATOR (CAMBODIA) CO., LTD.
     6.  Malaysia
-      - DENSO (MALAYSIA) SDN. BHD. (198001003055 (56839-A))
-      - DENSO WIPER SYSTEMS (MALAYSIA) SDN. BHD. (199501005004)
+        - DENSO (MALAYSIA) SDN. BHD. (198001003055 (56839-A))
+        - DENSO WIPER SYSTEMS (MALAYSIA) SDN. BHD. (199501005004)
     7.  Philippines
-      - DENSO PHILIPPINES CORPORATION
-      - Jeco Autoparts Philippines, Inc.
-      - DENSO TEN PHILIPPINES CORPORATION
+        - DENSO PHILIPPINES CORPORATION
+        - Jeco Autoparts Philippines, Inc.
+        - DENSO TEN PHILIPPINES CORPORATION
 - Western Asia
     1.  UAE
 - Oceania
     1.  Australia
 - North Africa
     1.  Morocco
-      - DENSO THERMAL SYSTEMS MOROCCO S.A.R.L.
+        - DENSO THERMAL SYSTEMS MOROCCO S.A.R.L.
 - Southern Africa
     1.  South Africa
 - North America
     1.  USA
-      - DENSO AIR SYSTEMS KENTUCKY,INC.
-      - DENSO MANUFACTURING ARKANSAS, INC.
-      - DENSO MANUFACTURING ATHENS TENNESSEE, INC.
-      - DENSO MANUFACTURING MICHIGAN, INC.
-      - DENSO MANUFACTURING NORTH CAROLINA, INC.
-      - DENSO MANUFACTURING TENNESSEE, INC.
-      - DENSO TEN TECHNOSEPTA USA, Limited
-      - YSTEX PRODUCTS ARKANSAS COMPANY
-      - SYSTEX PRODUCTS CORPORATION
+        - DENSO AIR SYSTEMS KENTUCKY,INC.
+        - DENSO MANUFACTURING ARKANSAS, INC.
+        - DENSO MANUFACTURING ATHENS TENNESSEE, INC.
+        - DENSO MANUFACTURING MICHIGAN, INC.
+        - DENSO MANUFACTURING NORTH CAROLINA, INC.
+        - DENSO MANUFACTURING TENNESSEE, INC.
+        - DENSO TEN TECHNOSEPTA USA, Limited
+        - YSTEX PRODUCTS ARKANSAS COMPANY
+        - SYSTEX PRODUCTS CORPORATION
     2.  Mexico
-      - DENSO AIR SYSTEMS DE MEXICO S.A.DE C.V.
-      - DENSO MEXICO S.A. DE C.V.
-      - DENSO TEN DE MÉXICO, S.A. DE C.V.
-      - HAMADEN MEXICO S.A. DE C.V.
+        - DENSO AIR SYSTEMS DE MEXICO S.A.DE C.V.
+        - DENSO MEXICO S.A. DE C.V.
+        - DENSO TEN DE MÉXICO, S.A. DE C.V.
+        - HAMADEN MEXICO S.A. DE C.V.
     3.  Canada
-      - DENSO MANUFACTURING CANADA, INC.
+        - DENSO MANUFACTURING CANADA, INC.
 - South America
     1.  Brazil
-      - DENSO DO BRASIL LTDA.
-      - DENSO INDUSTRIAL DA AMAZONIA LTDA.
-      - DENSO MAQUINAS ROTANTES do BRASIL LTDA.
-      - DENSO SISTEMAS TERMICOS do BRASIL LTDA.
+        - DENSO DO BRASIL LTDA.
+        - DENSO INDUSTRIAL DA AMAZONIA LTDA.
+        - DENSO MAQUINAS ROTANTES do BRASIL LTDA.
+        - DENSO SISTEMAS TERMICOS do BRASIL LTDA.
     2.  Argentina
-      - DENSO MANUFACTURING ARGENTINA S.A.
+        - DENSO MANUFACTURING ARGENTINA S.A.
 - Eastern Europe
     1.  Hungary
-      - DENSO MANUFACTURING HUNGARY LTD.
+        - DENSO MANUFACTURING HUNGARY LTD.
     2.  Czech
-      - DENSO CZECH s.r.o.
-      - DENSO MANUFACTURING CZECH s.r.o.
-      - LIPLASTEC s.r.o.
+        - DENSO CZECH s.r.o.
+        - DENSO MANUFACTURING CZECH s.r.o.
+        - LIPLASTEC s.r.o.
     3.  Poland
-      - DENSO POLAND Sp. z o.o.
-      - DENSO THERMAL SYSTEMS POLSKA Sp. z o.o. 
+        - DENSO POLAND Sp. z o.o.
+        - DENSO THERMAL SYSTEMS POLSKA Sp. z o.o. 
     4.  Turkey
-      - DENSO OTOMOTIV PARCALARI SANAYI A.S.
+        - DENSO OTOMOTIV PARCALARI SANAYI A.S.
     5.  Russia
 - Northern Europe
     1.  England
-      - DENSO MANUFACTURING UK LTD.
-      - DENSO MARSTON LTD.
+        - DENSO MANUFACTURING UK LTD.
+        - DENSO MARSTON LTD.
     2.  Sweden
 - Southern Europe
     1.  Italy
-      - DENSO MANUFACTURING ITALIA S.p.A.
-      - DENSO THERMAL SYSTEMS S.p.A.
+        - DENSO MANUFACTURING ITALIA S.p.A.
+        - DENSO THERMAL SYSTEMS S.p.A.
     2.  Spain
-      - DENSO BARCELONA S.A.U.
-      - DENSO SISTEMAS TERMICOS ESPANA S.A.
-      - DENSO TEN ESPAÑA, S.A.
+        - DENSO BARCELONA S.A.U.
+        - DENSO SISTEMAS TERMICOS ESPANA S.A.
+        - DENSO TEN ESPAÑA, S.A.
     3.  Portugal
-      - João de Deus & Filhos, S.A.
+        - João de Deus & Filhos, S.A.
 - Western Europe
     1.  Netherlands
     2.  Germany
