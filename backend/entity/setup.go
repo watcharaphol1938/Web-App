@@ -166,6 +166,246 @@ func SetupDatabase() {
 	plant47 := Plant{Name: "DENSO IWATE CORPORATION"}
 	db.Model(&Plant{}).Create(&plant47)
 
+	plant48 := Plant{Name: "DENSO KATSUYAMA CO., LTD."}
+	db.Model(&Plant{}).Create(&plant48)
+
+	plant49 := Plant{Name: "DENSO KYUSHU CORPORATION"}
+	db.Model(&Plant{}).Create(&plant49)
+
+	plant50 := Plant{Name: "DENSO MIYAZAKI, INC."}
+	db.Model(&Plant{}).Create(&plant50)
+
+	plant51 := Plant{Name: "DENSO PRESS TECH CO., LTD."}
+	db.Model(&Plant{}).Create(&plant51)
+
+	plant52 := Plant{Name: "DENSO SANKYO CO., LTD."}
+	db.Model(&Plant{}).Create(&plant52)
+
+	plant53 := Plant{Name: "DENSO TAIYO CO., LTD."}
+	db.Model(&Plant{}).Create(&plant53)
+
+	plant54 := Plant{Name: "DENSO TEN Limited"}
+	db.Model(&Plant{}).Create(&plant54)
+
+	plant55 := Plant{Name: "DENSO TEN TECHNOSEPTA Limited"}
+	db.Model(&Plant{}).Create(&plant55)
+
+	plant56 := Plant{Name: "DENSO TRIM CORPORATION"}
+	db.Model(&Plant{}).Create(&plant56)
+
+	plant57 := Plant{Name: "DENSO WAVE INCORPORATED"}
+	db.Model(&Plant{}).Create(&plant57)
+
+	plant58 := Plant{Name: "DENSO WIPER SYSTEMS, INC."}
+	db.Model(&Plant{}).Create(&plant58)
+
+	plant59 := Plant{Name: "DENSO WISETECH CORPORATION"}
+	db.Model(&Plant{}).Create(&plant59)
+
+	plant60 := Plant{Name: "DENSO YAMAGATA CO., LTD."}
+	db.Model(&Plant{}).Create(&plant60)
+
+	plant61 := Plant{Name: "HAMADEN P.S CO.,LTD."}
+	db.Model(&Plant{}).Create(&plant61)
+
+	plant62 := Plant{Name: "HAMANAKODENSO CO., LTD."}
+	db.Model(&Plant{}).Create(&plant62)
+
+	plant63 := Plant{Name: "JECO CO., LTD."}
+	db.Model(&Plant{}).Create(&plant63)
+
+	plant64 := Plant{Name: "KYOSAN DENKI CO., LTD."}
+	db.Model(&Plant{}).Create(&plant64)
+
+	plant65 := Plant{Name: "KYOSAN TECS CO., LTD."}
+	db.Model(&Plant{}).Create(&plant65)
+
+	plant66 := Plant{Name: "MAULTECH CORPORATION"}
+	db.Model(&Plant{}).Create(&plant66)
+
+	plant67 := Plant{Name: "NAGANO JECO CO., LTD."}
+	db.Model(&Plant{}).Create(&plant67)
+
+	plant68 := Plant{Name: "SHIMIZU INDUSTRY CO., LTD."}
+	db.Model(&Plant{}).Create(&plant68)
+
+	plant69 := Plant{Name: "DENSO HARYANA PVT. LTD."}
+	db.Model(&Plant{}).Create(&plant69)
+
+	plant70 := Plant{Name: "DENSO INDIA PVT. LTD."}
+	db.Model(&Plant{}).Create(&plant70)
+
+	plant71 := Plant{Name: "DENSO KIRLOSKAR INDUSTRIES PVT. LTD."}
+	db.Model(&Plant{}).Create(&plant71)
+
+	plant72 := Plant{Name: "DENSO TEN MINDA INDIA Private Limited"}
+	db.Model(&Plant{}).Create(&plant72)
+
+	plant73 := Plant{Name: "DENSO THERMAL SYSTEMS PUNE PVT.LTD."}
+	db.Model(&Plant{}).Create(&plant73)
+
+	plant74 := Plant{Name: "PT. DENSO INDONESIA"}
+	db.Model(&Plant{}).Create(&plant74)
+
+	plant75 := Plant{Name: "PT. DENSO MANUFACTURING INDONESIA"}
+	db.Model(&Plant{}).Create(&plant75)
+
+	plant76 := Plant{Name: "PT. HAMADEN INDONESIA MANUFACTURING"}
+	db.Model(&Plant{}).Create(&plant76)
+
+	plant77 := Plant{Name: "AIR SYSTEMS (THAILAND) CO., LTD."}
+	db.Model(&Plant{}).Create(&plant77)
+
+	plant78 := Plant{Name: "DENSO ELECTRONICS (THAILAND) Co., LTD."}
+	db.Model(&Plant{}).Create(&plant78)
+
+	plant79 := Plant{Name: "DENSO (THAILAND) CO., LTD."}
+	db.Model(&Plant{}).Create(&plant79)
+
+	plant80 := Plant{Name: "DENSO TEN THAILAND Limited"}
+	db.Model(&Plant{}).Create(&plant80)
+
+	plant81 := Plant{Name: "DENSO INNOVATIVE MANUFACTURING SOLUTION ASIA CO., LTD."}
+	db.Model(&Plant{}).Create(&plant81)
+
+	plant82 := Plant{Name: "SIAM DENSO MANUFACTURING CO., LTD."}
+	db.Model(&Plant{}).Create(&plant82)
+
+	plant83 := Plant{Name: "IAM KYOSAN DENSO CO., LTD."}
+	db.Model(&Plant{}).Create(&plant83)
+
+	plant84 := Plant{Name: "DENSO MANUFACTURING VIETNAM CO., LTD."}
+	db.Model(&Plant{}).Create(&plant84)
+
+	plant85 := Plant{Name: "HAMADEN VIETNAM CO., LTD."}
+	db.Model(&Plant{}).Create(&plant85)
+
+	plant86 := Plant{Name: "DENSO (CAMBODIA) Co., Ltd."}
+	db.Model(&Plant{}).Create(&plant86)
+
+	plant87 := Plant{Name: "SANKYO RADIATOR (CAMBODIA) CO., LTD."}
+	db.Model(&Plant{}).Create(&plant87)
+
+	plant88 := Plant{Name: "DENSO (MALAYSIA) SDN. BHD. (198001003055 (56839-A))"}
+	db.Model(&Plant{}).Create(&plant88)
+
+	plant89 := Plant{Name: "DENSO WIPER SYSTEMS (MALAYSIA) SDN. BHD. (199501005004)"}
+	db.Model(&Plant{}).Create(&plant89)
+
+	plant90 := Plant{Name: "DENSO PHILIPPINES CORPORATION"}
+	db.Model(&Plant{}).Create(&plant90)
+
+	plant91 := Plant{Name: "Jeco Autoparts Philippines, Inc."}
+	db.Model(&Plant{}).Create(&plant91)
+
+	plant92 := Plant{Name: "DENSO TEN PHILIPPINES CORPORATION"}
+	db.Model(&Plant{}).Create(&plant92)
+
+	plant93 := Plant{Name: "DENSO THERMAL SYSTEMS MOROCCO S.A.R.L."}
+	db.Model(&Plant{}).Create(&plant93)
+
+	plant94 := Plant{Name: "DENSO AIR SYSTEMS KENTUCKY,INC."}
+	db.Model(&Plant{}).Create(&plant94)
+
+	plant95 := Plant{Name: "DENSO MANUFACTURING ARKANSAS, INC."}
+	db.Model(&Plant{}).Create(&plant95)
+
+	plant96 := Plant{Name: "DENSO MANUFACTURING ATHENS TENNESSEE, INC."}
+	db.Model(&Plant{}).Create(&plant96)
+
+	plant97 := Plant{Name: "DENSO MANUFACTURING MICHIGAN, INC."}
+	db.Model(&Plant{}).Create(&plant97)
+
+	plant98 := Plant{Name: "DENSO MANUFACTURING NORTH CAROLINA, INC."}
+	db.Model(&Plant{}).Create(&plant98)
+
+	plant99 := Plant{Name: "DENSO MANUFACTURING TENNESSEE, INC."}
+	db.Model(&Plant{}).Create(&plant99)
+
+	plant100 := Plant{Name: "DENSO TEN TECHNOSEPTA USA, Limited"}
+	db.Model(&Plant{}).Create(&plant100)
+
+	plant101 := Plant{Name: "YSTEX PRODUCTS ARKANSAS COMPANY"}
+	db.Model(&Plant{}).Create(&plant101)
+
+	plant102 := Plant{Name: "SYSTEX PRODUCTS CORPORATION"}
+	db.Model(&Plant{}).Create(&plant102)
+
+	plant103 := Plant{Name: "DENSO AIR SYSTEMS DE MEXICO S.A.DE C.V."}
+	db.Model(&Plant{}).Create(&plant103)
+
+	plant104 := Plant{Name: "DENSO MEXICO S.A. DE C.V."}
+	db.Model(&Plant{}).Create(&plant104)
+
+	plant105 := Plant{Name: "DENSO TEN DE MÉXICO, S.A. DE C.V."}
+	db.Model(&Plant{}).Create(&plant105)
+
+	plant106 := Plant{Name: "HAMADEN MEXICO S.A. DE C.V."}
+	db.Model(&Plant{}).Create(&plant106)
+
+	plant107 := Plant{Name: "DENSO MANUFACTURING CANADA, INC."}
+	db.Model(&Plant{}).Create(&plant107)
+
+	plant108 := Plant{Name: "DENSO DO BRASIL LTDA."}
+	db.Model(&Plant{}).Create(&plant108)
+
+	plant109 := Plant{Name: "DENSO INDUSTRIAL DA AMAZONIA LTDA."}
+	db.Model(&Plant{}).Create(&plant109)
+
+	plant110 := Plant{Name: "DENSO MAQUINAS ROTANTES do BRASIL LTDA."}
+	db.Model(&Plant{}).Create(&plant110)
+
+	plant111 := Plant{Name: "DENSO SISTEMAS TERMICOS do BRASIL LTDA."}
+	db.Model(&Plant{}).Create(&plant111)
+
+	plant112 := Plant{Name: "DENSO MANUFACTURING ARGENTINA S.A."}
+	db.Model(&Plant{}).Create(&plant112)
+
+	plant113 := Plant{Name: "DENSO MANUFACTURING HUNGARY LTD."}
+	db.Model(&Plant{}).Create(&plant113)
+
+	plant114 := Plant{Name: "DENSO CZECH s.r.o."}
+	db.Model(&Plant{}).Create(&plant114)
+
+	plant115 := Plant{Name: "DENSO MANUFACTURING CZECH s.r.o."}
+	db.Model(&Plant{}).Create(&plant115)
+
+	plant116 := Plant{Name: "LIPLASTEC s.r.o."}
+	db.Model(&Plant{}).Create(&plant116)
+
+	plant117 := Plant{Name: "DENSO POLAND Sp. z o.o."}
+	db.Model(&Plant{}).Create(&plant117)
+
+	plant118 := Plant{Name: "DENSO THERMAL SYSTEMS POLSKA Sp. z o.o."}
+	db.Model(&Plant{}).Create(&plant118)
+
+	plant119 := Plant{Name: "DENSO OTOMOTIV PARCALARI SANAYI A.S."}
+	db.Model(&Plant{}).Create(&plant119)
+
+	plant120 := Plant{Name: "DENSO MANUFACTURING UK LTD."}
+	db.Model(&Plant{}).Create(&plant120)
+
+	plant121 := Plant{Name: "DENSO MARSTON LTD."}
+	db.Model(&Plant{}).Create(&plant121)
+
+	plant122 := Plant{Name: "DENSO MANUFACTURING ITALIA S.p.A."}
+	db.Model(&Plant{}).Create(&plant122)
+
+	plant123 := Plant{Name: "DENSO THERMAL SYSTEMS S.p.A."}
+	db.Model(&Plant{}).Create(&plant123)
+
+	plant124 := Plant{Name: "DENSO BARCELONA S.A.U."}
+	db.Model(&Plant{}).Create(&plant124)
+
+	plant125 := Plant{Name: "DENSO SISTEMAS TERMICOS ESPANA S.A."}
+	db.Model(&Plant{}).Create(&plant125)
+
+	plant126 := Plant{Name: "DENSO TEN ESPAÑA, S.A."}
+	db.Model(&Plant{}).Create(&plant126)
+
+	plant127 := Plant{Name: "João de Deus & Filhos, S.A."}
+	db.Model(&Plant{}).Create(&plant127)
+
 	// Country -----------------------------------------------------------------------------------------------------------------------------------------
 	country1 := Country{Name: "China"}
 	db.Model(&Country{}).Create(&country1)
