@@ -92,13 +92,38 @@ https://blog.limitrack.com/howto-anydesk/
 - Eatern Asia
     1.  China
         1. Chongqing Chaoli Electric Appliance Co., Ltd.
+            - R&D, manufacturing, and sales
+              - air conditioning units
+              - heat exchangers
+              - piping
         2. DENSO AIR SYSTEMS TIANJIN CO., LTD.
+            - Manufacture and sale
+              - hoses
+              - piping
+              - hot water pipes
         3. DENSO (CHANGZHOU) FUEL INJECTION SYSTEM CO., LTD.
+            - Manufacture and sales
+              - diesel fuel pumps
+              - electronic diesel fuel injection systems
+              - gasoline direct injection pumps
         4. DENSO FA SHANGHAI CO., LTD
+            - Design and manufacture
+              - automation equipment
+              - production lines
+              - various machining
         5. DENSO (GUANGZHOU NANSHA) CO., LTD.
+            - Manufacture and sales
+              - automotive powertrains
+              - motors
+              - electronic products and related parts
         6. DENSO KOTEI AUTOMOTIVE ELECTRONICS (WUHAN) CO., LTD
+            - Development, design, manufacturing, sales, wholesale
+              - automotive cockpit display systems
+              - automotive electronic products and their materials and components
         7. DENSO MANUFACTURING (HANGZHOU) CO., LTD.
+            - Manufacture and sale of motor parts
         8. DENSO MANUFACTURING (TIANJIN) MOTOR CO., LTD.
+            - Manufacture and sale of small motors for automobiles
         9. DENSO TEN ELECTRONICS (WUXI) Limited
         10. DENSO TEN PRECISION ELECTRONICS (TIANJIN) Limited
         11. DENSO (TIANJIN) BODY PARTS CO., LTD.
