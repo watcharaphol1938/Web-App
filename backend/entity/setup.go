@@ -24,6 +24,183 @@ func SetupDatabase() {
 
 	// ProcessLine -----------------------------------------------------------------------------------------------------------------------------------------
 	// Process -----------------------------------------------------------------------------------------------------------------------------------------
+	process1 := Process{Name: "air conditioner hoses and tubes"}
+	db.Model(&Process{}).Create(&process1)
+
+	process2 := Process{Name: "relays and flashers"}
+	db.Model(&Process{}).Create(&process2)
+
+	process3 := Process{Name: "electrical components"}
+	db.Model(&Process{}).Create(&process3)
+
+	process4 := Process{Name: "air-conditioners"}
+	db.Model(&Process{}).Create(&process4)
+
+	process5 := Process{Name: "magnetos"}
+	db.Model(&Process{}).Create(&process5)
+
+	process6 := Process{Name: "audio-visual"}
+	db.Model(&Process{}).Create(&process6)
+
+	process7 := Process{Name: "automotive electronics"}
+	db.Model(&Process{}).Create(&process7)
+
+	process8 := Process{Name: "mold & die"}
+	db.Model(&Process{}).Create(&process8)
+
+	process9 := Process{Name: "spare parts"}
+	db.Model(&Process{}).Create(&process9)
+
+	process10 := Process{Name: "jig & tools"}
+	db.Model(&Process{}).Create(&process10)
+
+	process11 := Process{Name: "fuel injection system"}
+	db.Model(&Process{}).Create(&process11)
+
+	process12 := Process{Name: "fuel pump modules"}
+	db.Model(&Process{}).Create(&process12)
+
+	process13 := Process{Name: "diesel fuel filters"}
+	db.Model(&Process{}).Create(&process13)
+
+	// process14 := Process{Name: "air-conditioners and radiators"}
+	// db.Model(&Plant{}).Create(&process14)
+
+	// process15 := Process{Name: "thermal Products"}
+	// db.Model(&Plant{}).Create(&process15)
+
+	// process16 := Process{Name: "thermal Products"}
+	// db.Model(&Plant{}).Create(&process16)
+
+	// process17 := Process{Name: "thermal Products"}
+	// db.Model(&Plant{}).Create(&process17)
+
+	// process18 := Process{Name: "thermal Products"}
+	// db.Model(&Plant{}).Create(&process18)
+
+	// process19 := Process{Name: "electronic control products and components for automobiles"}
+	// db.Model(&Plant{}).Create(&process19)
+
+	// process20 := Process{Name: "HVAC (except for heat exchangers), condensers, electric fans and ECM (engine cooling module)"}
+	// db.Model(&Plant{}).Create(&process20)
+
+	// process21 := Process{Name: "automotive engine control system products and air-conditioning system products"}
+	// db.Model(&Plant{}).Create(&process21)
+
+	// process22 := Process{Name: "thermal Products"}
+	// db.Model(&Plant{}).Create(&process22)
+
+	// process23 := Process{Name: "car air-conditioners and compressors"}
+	// db.Model(&Plant{}).Create(&process23)
+
+	// process24 := Process{Name: "automotive components, non-automotive equipment and components"}
+	// db.Model(&Plant{}).Create(&process24)
+
+	// process25 := Process{Name: "wiper arms, wiper blades, and wiper linkages"}
+	// db.Model(&Plant{}).Create(&process25)
+
+	// process26 := Process{Name: "air-conditioners, radiators, bus air-conditioners, alternators, non-automotive products"}
+	// db.Model(&Plant{}).Create(&process26)
+
+	// process27 := Process{Name: "starters, alternators, Inverter, motor generator, electric power steering motor"}
+	// db.Model(&Plant{}).Create(&process27)
+
+	// process28 := Process{Name: "Car air conditioners, ratiators, electronic diesel/gasoline fuel injection components"}
+	// db.Model(&Plant{}).Create(&process28)
+
+	// process29 := Process{Name: "Instrument Cluster, Head-Up Display, Millimeter-Wave Radar Sensor, Vision Sensor ,Power Module,various Sensors components"}
+	// db.Model(&Plant{}).Create(&process29)
+
+	// process30 := Process{Name: "compact motors for wiper systems, power windows"}
+	// db.Model(&Plant{}).Create(&process30)
+
+	// process31 := Process{Name: "ignition components, Advanced safety products, valve train components, exhaust emission control components"}
+	// db.Model(&Plant{}).Create(&process31)
+
+	// process32 := Process{Name: "integrated circuits and electronic control components"}
+	// db.Model(&Plant{}).Create(&process32)
+
+	// process33 := Process{Name: "air conditioners and Water pump for Fuel-cell vehicle and Servo Motor module and natural refrigerant (CO2) heat-pump hot water supply system"}
+	// db.Model(&Plant{}).Create(&process33)
+
+	// process34 := Process{Name: "Inverters, ECUs and Power semiconductors"}
+	// db.Model(&Plant{}).Create(&process34)
+
+	// process35 := Process{Name: "machinery and tools"}
+	// db.Model(&Plant{}).Create(&process35)
+
+	// process36 := Process{Name: "compact motors for blowers, cooling fans"}
+	// db.Model(&Plant{}).Create(&process36)
+
+	// process37 := Process{Name: "electronic diesel/gasoline fuel injection systems"}
+	// db.Model(&Plant{}).Create(&process37)
+
+	// process38 := Process{Name: "automotive small motors, their systems and related components"}
+	// db.Model(&Plant{}).Create(&process38)
+
+	// process39 := Process{Name: "air-conditioners for buses, construction vehicles and agricultural vehicles, truck refrigerators, industrial air-conditioners, residential air-conditioners, and heat exchangers"}
+	// db.Model(&Plant{}).Create(&process39)
+
+	// process40 := Process{Name: "hoses, ducts, and pipes for car air-conditioning systems"}
+	// db.Model(&Plant{}).Create(&process40)
+
+	// process41 := Process{Name: "automotive fuel injection systems components, automotive air control system components"}
+	// db.Model(&Plant{}).Create(&process41)
+
+	// process42 := Process{Name: "automotive relays and electronic controllers"}
+	// db.Model(&Plant{}).Create(&process42)
+
+	// process43 := Process{Name: "automated production lines"}
+	// db.Model(&Plant{}).Create(&process43)
+
+	// process44 := Process{Name: "air-conditioning systems, engine cooling modules and fuel injection/supply systems for gasoline engines"}
+	// db.Model(&Plant{}).Create(&process44)
+
+	// process45 := Process{Name: "automotive semiconductor products"}
+	// db.Model(&Plant{}).Create(&process45)
+
+	// process46 := Process{Name: "automotive semiconductors and electronic device parts"}
+	// db.Model(&Plant{}).Create(&process46)
+
+	// process47 := Process{Name: "components for hybrid vehicles, starters, ignition systems, and intake air systems"}
+	// db.Model(&Plant{}).Create(&process47)
+
+	// process48 := Process{Name: "thermal systems products, diesel fuel injection systems components, intake air systems products, automotive wiper, and washer systems products"}
+	// db.Model(&Plant{}).Create(&process48)
+
+	// process49 := Process{Name: "automotive compact motors and their related components"}
+	// db.Model(&Plant{}).Create(&process49)
+
+	// process50 := Process{Name: "stamping parts for automobiles"}
+	// db.Model(&Plant{}).Create(&process50)
+
+	// process51 := Process{Name: "heat exchanger for trucks and agricultural machineries, air-conditioner for trucks"}
+	// db.Model(&Plant{}).Create(&process51)
+
+	// process52 := Process{Name: "Assembly of automotive components"}
+	// db.Model(&Plant{}).Create(&process52)
+
+	// process53 := Process{Name: "audio-visual products and automotive electronics"}
+	// db.Model(&Plant{}).Create(&process53)
+
+	// process54 := Process{Name: "resin parts for cars"}
+	// db.Model(&Plant{}).Create(&process54)
+
+	// process55 := Process{Name: "motorcycle components and automobile components"}
+	// db.Model(&Plant{}).Create(&process55)
+
+	// process56 := Process{Name: "automatic data capture equipment, industrial robots, programmable controllers and IoT, other apparatus and systems"}
+	// db.Model(&Plant{}).Create(&process56)
+
+	// process57 := Process{Name: "automotive wiper blades, wiper arms, wiper links"}
+	// db.Model(&Plant{}).Create(&process57)
+
+	// process58 := Process{Name: "automotive electric components"}
+	// db.Model(&Plant{}).Create(&process58)
+
+	// process59 := Process{Name: "automotive electric components"}
+	// db.Model(&Plant{}).Create(&process59)
+
 	// Plant -----------------------------------------------------------------------------------------------------------------------------------------
 	plant1 := Plant{Name: "Chongqing Chaoli Electric Appliance Co., Ltd."}
 	db.Model(&Plant{}).Create(&plant1)
