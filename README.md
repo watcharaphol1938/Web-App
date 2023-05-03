@@ -125,102 +125,302 @@ https://blog.limitrack.com/howto-anydesk/
         8. DENSO MANUFACTURING (TIANJIN) MOTOR CO., LTD.
             - Manufacture and sale of small motors for automobiles
         9. DENSO TEN ELECTRONICS (WUXI) Limited
+            - Manufacture of audio-visual equipment
         10. DENSO TEN PRECISION ELECTRONICS (TIANJIN) Limited
+            - Molding and processing of automotive resin parts
         11. DENSO (TIANJIN) BODY PARTS CO., LTD.
+            - Manufacture and sales
+              - automotive dashboards
+              - smart keys
         12. DENSO (TIANJIN) THERMAL PRODUCTS CO., LTD.
+            - Manufacture and sale
+              - heat exchangers for air conditioners
+              - radiators
+              - automotive filters
         13. GONGCHENG DENSO (CHONGQING) CO., LTD
+              - Manufacture and sales of motorcycle parts
         14. GUANGZHOU DENSO CO., LTD.
+              - Manufacture and sales
+                - automotive air conditioners
+                - radiators
         15. Liuzhou Chaoli Car Parts Manufacturing Co., Ltd.
+              - Manufacture and sale of heat-related products
         16. Nanjing Voaasco Auto Parts Co., Ltd.
+              - Manufacture and sale of heat-related products
         17. Ningbo Hangzhou Bay New District Chaoli Auto Parts Manufacturing Co., Ltd.
+              - Manufacture and sale of heat-related products
         18. Qingdao Chaoli Car Parts Manufacturing Co., Ltd.
+              - Manufacture and sale of heat-related products
         19. TIANJIN DENSO ELECTRONICS CO., LTD.
+              - Manufacture and sales
+                - electronic control products and parts
         20. TIANJIN DENSO ENGINE ELECTRICAL PRODUCTS CO., LTD.
+              - Manufacture and sale
+                - starters
+                - alternators
+                - PPS
         21. TIANJIN FAWER DENSO AIR-CONDITIONER CO., LTD.
+              - Manufacture and sale
+                - HVAC (excluding heat exchangers)
+                - condensers
+                - electric fans
+                - ECMs (engine cooling modules)
         22. WUXI DENSO AUTOMOTIVE PRODUCTS CO., LTD.
+              - Manufacture and sales
+                - automotive engine control system products
+                - air conditioning system products
         23. Yantai Chaoli Auto Electrical Parts Co., LTD
+              - Manufacture and sale of heat-related products
         24. YANTAI SHOUGANG DENSO CO., LTD.
+              - R&D, manufacturing and sales of automotive air conditioning system products
+                - machinery air conditioners
+                - agricultural machinery air conditioners
+                - medium bus air conditioners
+                - freezers and water tank radiators
     2.  South Korea
         1. DENSO KOREA CORPORATION
+            - Manufacture and sale of automotive components Sale of non-automotive equipment and components
         2. KOREA WIPER BLADE CO., LTD.
+            - Manufacture and sale of wiper arms, wiper blades, and wiper linkages
     3.  Taiwan
         1. DENSO TAIWAN CORP.
+            - Manufacture and sales of 
+              - air conditioners
+              - radiators
+              - bus air conditioners
+              - alternators
+              - non-automotive fields
     4.  Japan
         1. Anjo Plant
+            - Manufacture
+              - starters
+              - alternators
+              - Inverter
+              - motor generator
+              - electric power steering motor
         2. Nishio Plant
+            - Manufacture
+              - Car air conditioners
+              - ratiators
+              - electronic diesel/gasoline fuel injection components
         3. Takatana Plant
+            - Manufacture
+              - Instrument Cluster
+              - Head-Up Display
+              - Millimeter-Wave Radar Sensor
+              - Vision Sensor
+              - Power Module
+              - various Sensors components
         4. Kosai Plant
+            - Manufacture
+              - compact motors for wiper systems
+              - power windows
         5. Daian Plant
+            - Manufacture
+              - ignition components
+              - Advanced safety products
+              - valve train components
+              - exhaust emission control components
         6. Kota Plant
+            - Manufacture
+              - integrated circuits
+              - electronic control components
         7. Toyohashi Plant
+            - Macufacture
+              - air conditioners
+              - Water pump for Fuel-cell vehicle
+              - Servo Motor module
+              - natural refrigerant (CO2) heat-pump hot water supply system
         8. Hirose Plant
+            - Manufacture
+              - Inverters
+              - ECUs
+              - Power semiconductors
         9. Agui Plant
+            - Manufacture
+              - machinery
+              - tools
         10. Toyohashi East Plant
+            - Manufacture
+              - compact motors for blowers
+              - cooling fans
         11. Zenmyo Plant
+            - Manufacture
+              - electronic diesel/gasoline fuel injection systems
         12. APINES INC.
+            - Manufacture and sale
+              - automotive small motors
+              - their systems and related components.
         13. DENSO AIRCOOL CORPORATION
+            - Design, development and manufacture
+              - air-conditioners for buses
+              - construction vehicles and agricultural vehicles
+              - truck refrigerators
+              - industrial air-conditioners
+              - residential air-conditioners
+              - heat exchangers.
         14. DENSO AIR SYSTEMS CORPORATION
+            - Development, manufacture and sale
+              - hoses
+              - ducts
+              - pipes for car air-conditioning systems
         15. DENSO DAISHIN CORPORATION
+            - Manufacture
+              - automotive fuel injection systems components
+              - automotive air control system components. 
+            - Development, design and manufacture of their production facilities.
         16. DENSO ELECTRONICS CORPORATION
+            - Design and manufacture
+              - automotive relays
+              - electronic controllers.
         17. DENSO FA YAMAGATA CO., LTD.
+            - Customized, automated production lines
         18. DENSO FUKUSHIMA CORPORATION
+            - Manufacture and sale
+              - air-conditioning systems
+              - engine cooling modules and fuel injection/supply systems for gasoline engines.
         19. DENSO HOKKAIDO CORPORATION
+            - Manufacture of automotive semiconductor products
         20. DENSO IWATE CORPORATION
+            - Manufacture of automotive semiconductors and electronic device parts
         21. DENSO KATSUYAMA CO., LTD.
+            - Manufacture and sale
+              - components for hybrid vehicles
+              - starters
+              - ignition systems
+              - intake air systems.
         22. DENSO KYUSHU CORPORATION
+            - Manufacture
+              - thermal systems products
+              - diesel fuel injection systems components
+              - intake air systems products
+              - automotive wiper
+              - washer systems products
         23. DENSO MIYAZAKI, INC.
-        24. DENSO PRESS TECH CO., LTD. 
+            - Manufacture and sale
+              - automotive compact motors and their related components
+        24. DENSO PRESS TECH CO., LTD.
+            - R&D and manufacture of stamping parts for automobiles
         25. DENSO SANKYO CO., LTD.
+            - Development, manufacture and sale
+              - heat exchanger for trucks and agricultural machineries
+            - Manufacture and sale of air-conditioner for trucks
         26. DENSO TAIYO CO., LTD.
+            - Assembly of automotive components
         27. DENSO TEN Limited
+            - Development, design, manufacture and sale
+              - audio-visual products
+              - automotive electronics
         28. DENSO TEN TECHNOSEPTA Limited
+            - Molding and processing of the resin parts for cars
         29. DENSO TRIM CORPORATION
+            - Design and manufacture
+              - motorcycle components
+              - automobile components.
         30. DENSO WAVE INCORPORATED
+            - Development, manufacture and sale
+              -   automatic data capture equipment
+              -   industrial robotsprogrammable controllers and IoT
+              -   other apparatus and systems
         31. DENSO WIPER SYSTEMS, INC.
+             -  Manufacture and sale
+              -  automotive wiper blades
+              -  wiper arms
+              -  wiper links
         32. DENSO WISETECH CORPORATION
+            - Manufacture and sale of automotive electric components.
         33. DENSO YAMAGATA CO., LTD.
+            - Manufacture of flashers and buzzers. Design of electronic circuit board
         34. HAMADEN P.S CO.,LTD.
+            - Attachment of vacuum switching valve hoses and door locks Manufacture of coils
         35. HAMANAKODENSO CO., LTD.
+            - Manufacture and sale
+              - horns
+              - DCV (Duty Control Valve)
+              - oil pressure control solenoid
+              - NCS (Non-Contact Sensor)
+              - VCT solenoid, magnet switch
         36. JECO CO., LTD.
+            - Manufacture and sale
+              - automobile clocks
+              - instruments and their applied products.
         37. KYOSAN DENKI CO., LTD.
+            - Manufacture and sale
+              - fuel supply modules for automobiles.
+            - Development and manufacture
+              - fuel filters for trucks and agricultural machinery.
+            - Manufacture
+              - diesel common rail system parts and gasoline direct injection pump parts
         38. KYOSAN TECS CO., LTD.
+            - Manufacture of pressed parts
+            - manufacture and sale of residential door locks
         39. MAULTECH CORPORATION
+            - Manufacture and sale of plastic products for car air conditioners and cooling systems
         40. NAGANO JECO CO., LTD.
+            - Manufacture
+              - automobile clocks
+              - instruments
+              - their applied products
         41. SHIMIZU INDUSTRY CO., LTD.
+            - Manufacture and sale
+              - plastic products and their dies for car air conditioners and cooling systems
 - Southern Asia
     1.  India
         - DENSO HARYANA PVT. LTD.
+            - Manufacture and sale of Automotive components : Powertrain , Electrification, Mobility Electronics and Thermal products
         - DENSO INDIA PVT. LTD.
+            - Manufacture and sale of Automotive components : alternators, starters, 2W ECU, ACGS and ACG
         - DENSO KIRLOSKAR INDUSTRIES PVT. LTD.
+            - Manufacture and sale of Automotive components : radiators, air-conditioners, and air cleaners. Sale of bus air-conditioners
         - DENSO TEN MINDA INDIA Private Limited
+            - Designing, development, manufacturing, sale of CI (Car Infotainment) products and its accessories
         - DENSO THERMAL SYSTEMS PUNE PVT.LTD.
+            - Manufacture and sale of Automotive components : air-conditioners, heaters, engine cooling module(ECM) & control panels
 - South-Eastern Asia
     1.  Indonesia
         - PT. DENSO INDONESIA
+          - Manufacture and sale of car air-conditioners, radiators, spark plugs, oxygen sensors, VCT
         - PT. DENSO MANUFACTURING INDONESIA
+          - Manufacture of DC motors
         - PT. HAMADEN INDONESIA MANUFACTURING
+          - Manufacture horns
     2.  Thailand
         - AIR SYSTEMS (THAILAND) CO., LTD.
+          - Manufacture car air conditioner hoses and tubes
         - DENSO ELECTRONICS (THAILAND) Co., LTD.
+          - Manufacture relays and flashers
         - DENSO (THAILAND) CO., LTD.
+          - Manufacture of electrical components, air-conditioners, magnetos for motorcycles
         - DENSO TEN THAILAND Limited
+          - Manufacture and sales of audio-visual products and automotive electronics
         - DENSO INNOVATIVE MANUFACTURING SOLUTION ASIA CO., LTD.
+          - Manufacture and sale of mold & die, spare parts, jig & tools
         - SIAM DENSO MANUFACTURING CO., LTD.
-        - IAM KYOSAN DENSO CO., LTD.
+          - Manufacture of fuel injection system products (fuel pumps and injectors)
+        - SIAM KYOSAN DENSO CO., LTD.
+          - Manufacture fuel pump modules and diesel fuel filters
     3.  Singapore
     4.  Vietnam
         - DENSO MANUFACTURING VIETNAM CO., LTD.
+          - Manufacture and sale of engine-related products.
         - HAMADEN VIETNAM CO., LTD.
+          - Manufacture automotive sensors and solenoid valves
     5.  Cambodia
         - DENSO (CAMBODIA) Co., Ltd.
+          - Manufacture and sale of automotive & motorcycle parts
         - SANKYO RADIATOR (CAMBODIA) CO., LTD.
     6.  Malaysia
         - DENSO (MALAYSIA) SDN. BHD. (198001003055 (56839-A))
+          - Manufacture and sale of car air-conditioners, electrical automotive components, and electronic products
         - DENSO WIPER SYSTEMS (MALAYSIA) SDN. BHD. (199501005004)
+          - Manufacture and sale of automotive wiper systems
     7.  Philippines
         - DENSO PHILIPPINES CORPORATION
+          - Manufacture and sale of instrument clusters, HVAC, radiators, sonars and smart keys
         - Jeco Autoparts Philippines, Inc.
+          - Automobile clocks
         - DENSO TEN PHILIPPINES CORPORATION
+          - Manufacture and sales of audio-visual products and automotive electronics
 - Western Asia
     1.  UAE
 - Oceania
@@ -228,62 +428,97 @@ https://blog.limitrack.com/howto-anydesk/
 - North Africa
     1.  Morocco
         - DENSO THERMAL SYSTEMS MOROCCO S.A.R.L.
+          - Manufacture of air-conditioners & ECM-related products
 - Southern Africa
     1.  South Africa
 - North America
     1.  USA
         1. DENSO AIR SYSTEMS KENTUCKY,INC.
+            - Manufacture of hose and tube piping for underfloor
         2. DENSO MANUFACTURING ARKANSAS, INC.
+            - Manufactures HVAC and ECM units
         3. DENSO MANUFACTURING ATHENS TENNESSEE, INC.
+            - Manufacture of exhaust gas sensors, injector, pumps, coils, spark plugs, and monolithic carriers
         4. DENSO MANUFACTURING MICHIGAN, INC.
+            - Manufactures evaporators, condensers, cooling units, radiators, heaters, HVACs and manages sales of air-conditioner parts
         5. DENSO MANUFACTURING NORTH CAROLINA, INC.
+            - Manufactures smart motors for various applications, pinch sensors, wiper systems, and washer systems
         6. DENSO MANUFACTURING TENNESSEE, INC.
+            - Manufactures electrification and safety components, instrument clusters, and automotive electronic products
         7. DENSO TEN TECHNOSEPTA USA, Limited
+            - Molding and processing vehicle resin parts
         8. YSTEX PRODUCTS ARKANSAS COMPANY
+            - Manufactures plastic products for automotive air conditioners
         9. SYSTEX PRODUCTS CORPORATION
+            - Manufactures plastic products for automotive air conditioners
     2.  Mexico
         - DENSO AIR SYSTEMS DE MEXICO S.A.DE C.V.
+          - Manufactures spot-coolers and hoses for car air conditioners
         - DENSO MEXICO S.A. DE C.V.
+          - Manufacture of mechatronics components, cockpit components, electric components, air-conditioners
         - DENSO TEN DE MÉXICO, S.A. DE C.V.
+          - Manufactures and manages sales of audio-visual products and automotive electronics
         - HAMADEN MEXICO S.A. DE C.V.
+          - Manufactures solenoids and valves for engine management and pneumatic control
     3.  Canada
         - DENSO MANUFACTURING CANADA, INC.
+          - Manufactures HVAC and ECM (Condensers/Radiators)
 - South America
     1.  Brazil
         - DENSO DO BRASIL LTDA.
+          - Manufacture and sales of air-conditioners, heaters, compressors, radiators, starters, wipers and instrument clusters
         - DENSO INDUSTRIAL DA AMAZONIA LTDA.
+          - Manufacture and sale of Generators, CDI and ECU for motorcycles, and ECU and Meter for cars
         - DENSO MAQUINAS ROTANTES do BRASIL LTDA.
+          - Manufacture and sale of alternators and wipers
         - DENSO SISTEMAS TERMICOS do BRASIL LTDA.
+          - Manufcture and sale of A/C, Heater, Front end, Radiator, Cooling Module
     2.  Argentina
         - DENSO MANUFACTURING ARGENTINA S.A.
+          - Manufacture and sale of air-conditioners, radiators and cockpits
 - Eastern Europe
     1.  Hungary
         - DENSO MANUFACTURING HUNGARY LTD.
+          - Manufacture and sale of common rail systems and other engine related products
     2.  Czech
         - DENSO CZECH s.r.o.
+          - Assembly of wiper motors and A/B and logistics services for DNEU
         - DENSO MANUFACTURING CZECH s.r.o.
+          - Manufacture and sale of HVAC, evaporators, condenser, heater cores, radiators and hoses
         - LIPLASTEC s.r.o.
+          - Manufacture plastic products for car air conditioners
     3.  Poland
         - DENSO POLAND Sp. z o.o.
-        - DENSO THERMAL SYSTEMS POLSKA Sp. z o.o. 
+          - Manufacture of instrument clusters
+        - DENSO THERMAL SYSTEMS POLSKA Sp. z o.o.
+          - Manufacture of air-conditioners, heaters, cockpit modules, front-end modules and cooling modules
     4.  Turkey
         - DENSO OTOMOTIV PARCALARI SANAYI A.S.
+          - Manufacture and sale of air-conditioners and ECM, and sale of starters, alternators, wipers
     5.  Russia
 - Northern Europe
     1.  England
         - DENSO MANUFACTURING UK LTD.
+          - Manufacture of air-conditioners, heaters and radiators and air cleaners
         - DENSO MARSTON LTD.
+          - Manufacture and sale of radiators, oil coolers, intercoolers, fuel coolers
     2.  Sweden
 - Southern Europe
     1.  Italy
         - DENSO MANUFACTURING ITALIA S.p.A.
+          - Manufacture and sale of starters, alternators, and small motors
         - DENSO THERMAL SYSTEMS S.p.A.
+          - Manufacture and sale of air-conditioners, heaters, radiators and front-end modules
     2.  Spain
         - DENSO BARCELONA S.A.U.
+          - Manufacture of automotive electronic products and engine control components
         - DENSO SISTEMAS TERMICOS ESPANA S.A.
+          - Manufacture and sale of car air-conditioners, heaters, and engine cooling modules
         - DENSO TEN ESPAÑA, S.A.
+          - Manufacture and sales of car audio products, automotive electronics and IT-related products
     3.  Portugal
         - João de Deus & Filhos, S.A.
+          - Manufacture and sale of radiator and intercooler and molds and tooling
 - Western Europe
     1.  Netherlands
     2.  Germany
