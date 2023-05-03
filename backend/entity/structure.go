@@ -21,6 +21,18 @@ type AutonomousMobileRobot struct {
 
 	ProcessLineID *uint
 	ProcessLine   ProcessLine `gorm:"references:id" valid:"-"`
+
+	ProcessID *uint
+	Process   Process `gorm:"references:id" valid:"-"`
+
+	PlantID *uint
+	Plant   Plant `gorm:"references:id" valid:"-"`
+
+	ProvinceID *uint
+	Province   Province `gorm:"references:id" valid:"-"`
+
+	CountryID *uint
+	Country   Country `gorm:"references:id" valid:"-"`
 }
 type ProcessLine struct {
 	gorm.Model
@@ -38,20 +50,33 @@ type Process struct {
 	PlantID *uint
 	Plant   Plant `gorm:"references:id" valid:"-"`
 
-	ProcessLines []ProcessLine `gorm:"foreignKey:ProcessID"`
+	ProcessLines           []ProcessLine           `gorm:"foreignKey:ProcessID"`
+	AutonomousMobileRobots []AutonomousMobileRobot `gorm:"foreignKey:ProcessLineID"`
 }
 type Plant struct {
+	gorm.Model
+	Name string
+
+	ProvinceID *uint
+	Province   Province `gorm:"references:id" valid:"-"`
+
+	Processes              []Process               `gorm:"foreignKey:PlantID"`
+	AutonomousMobileRobots []AutonomousMobileRobot `gorm:"foreignKey:ProcessLineID"`
+}
+type Province struct {
 	gorm.Model
 	Name string
 
 	CountryID *uint
 	Country   Country `gorm:"references:id" valid:"-"`
 
-	Processes []Process `gorm:"foreignKey:PlantID"`
+	Plants                 []Plant                 `gorm:"foreignKey:ProvinceID"`
+	AutonomousMobileRobots []AutonomousMobileRobot `gorm:"foreignKey:ProcessLineID"`
 }
 type Country struct {
 	gorm.Model
 	Name string
 
-	Plants []Plant `gorm:"foreignKey:CountryID"`
+	Provinces              []Province              `gorm:"foreignKey:CountryID"`
+	AutonomousMobileRobots []AutonomousMobileRobot `gorm:"foreignKey:ProcessLineID"`
 }

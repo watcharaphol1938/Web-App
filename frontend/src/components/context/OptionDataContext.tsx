@@ -1,6 +1,6 @@
-import { ChartData, ChartOptions, ChartTypeRegistry } from "chart.js"
+// import { ChartData, ChartOptions, ChartTypeRegistry } from "chart.js"
 import { Dispatch, createContext, useReducer } from "react";
-import _ from "lodash";
+// import _ from "lodash";
 
 // interface AuxProps {
 //     children: React.ReactNode
