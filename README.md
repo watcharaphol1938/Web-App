@@ -15,11 +15,11 @@
 - Lenovo ThinkStation P920
 
 # microcontroller
-https://micro.ros.org/docs/overview/hardware/
-https://www.allonrobots.com/robot-microcontroller/
-https://jakobfriedl.tech/microcontrollers-in-robotics
-https://www.generationrobots.com/en/326-microcontrollers-and-development-boards
-https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano-developer-kit/
+  https://micro.ros.org/docs/overview/hardware/
+  https://www.allonrobots.com/robot-microcontroller/
+  https://jakobfriedl.tech/microcontrollers-in-robotics
+  https://www.generationrobots.com/en/326-microcontrollers-and-development-boards
+  https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano-developer-kit/
 
 # single-board computer
 https://all3dp.com/1/single-board-computer-raspberry-pi-alternative/
