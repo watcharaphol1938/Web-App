@@ -92,53 +92,31 @@ https://blog.limitrack.com/howto-anydesk/
 - Eatern Asia
     1.  China
         1. Chongqing Chaoli Electric Appliance Co., Ltd.
-            - R&D, manufacturing, and sales
-              - air conditioning units
-              - heat exchangers
-              - piping
+            - Development, Production and Sale of the thermal Products (HVAC, Heat Exchanger, AC plumbing, etc.)
         2. DENSO AIR SYSTEMS TIANJIN CO., LTD.
-            - Manufacture and sale
-              - hoses
-              - piping
-              - hot water pipes
+            - Manufacture and sale of hoses and pipes for car air conditioners
         3. DENSO (CHANGZHOU) FUEL INJECTION SYSTEM CO., LTD.
-            - Manufacture and sales
-              - diesel fuel pumps
-              - electronic diesel fuel injection systems
-              - gasoline direct injection pumps
+            - Manufacture and sale of diesel fuel pump, electronic diesel fuel injection system, gasoline fuel direct injection pump
         4. DENSO FA SHANGHAI CO., LTD
-            - Design and manufacture
-              - automation equipment
-              - production lines
-              - various machining
+            - Design, manufacture, various machining operations, sales and marketing of automated equipment and production lines. Technology development and technical consulting. Real estate leasing
         5. DENSO (GUANGZHOU NANSHA) CO., LTD.
-            - Manufacture and sales
-              - automotive powertrains
-              - motors
-              - electronic products and related parts
+            - Manufacture and sale of automotive powertrain products, motors, and electronics products, and their parts.
         6. DENSO KOTEI AUTOMOTIVE ELECTRONICS (WUHAN) CO., LTD
-            - Development, design, manufacturing, sales, wholesale
-              - automotive cockpit display systems
-              - automotive electronic products and their materials and components
+            - Development, design, manufacture, sale, wholesale, export and import of automotive cockpit display products, automotive electronics products and their materials and components
         7. DENSO MANUFACTURING (HANGZHOU) CO., LTD.
-            - Manufacture and sale of motor parts
+            - Manufacture and sale of motor components
         8. DENSO MANUFACTURING (TIANJIN) MOTOR CO., LTD.
-            - Manufacture and sale of small motors for automobiles
+            - Manufacture and sale of automotive small motors
         9. DENSO TEN ELECTRONICS (WUXI) Limited
-            - Manufacture of audio-visual equipment
+            - Manufacture of audiovisual products
         10. DENSO TEN PRECISION ELECTRONICS (TIANJIN) Limited
-            - Molding and processing of automotive resin parts
+            - Molding and processing of resin parts for automobiles
         11. DENSO (TIANJIN) BODY PARTS CO., LTD.
-            - Manufacture and sales
-              - automotive dashboards
-              - smart keys
+            - Manufacture and sale of instrument clusters
         12. DENSO (TIANJIN) THERMAL PRODUCTS CO., LTD.
-            - Manufacture and sale
-              - heat exchangers for air conditioners
-              - radiators
-              - automotive filters
+            - Manufacture and sale of heat exchangers for air-conditioners, radiators and automotive filters.
         13. GONGCHENG DENSO (CHONGQING) CO., LTD
-              - Manufacture and sales of motorcycle parts
+            - Manufacture and sales of motorcycle parts
         14. GUANGZHOU DENSO CO., LTD.
               - Manufacture and sales
                 - automotive air conditioners
