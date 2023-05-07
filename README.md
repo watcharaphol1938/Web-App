@@ -80,6 +80,18 @@ https://www.youtube.com/watch?v=FJDVKeh7RJI
 https://stackoverflow.com/questions/10461257/an-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissi
 https://appuals.com/fix-an-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissions/
 https://www.techinpost.com/an-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissions/
+    - Tools
+        - Node JS
+        - VS Code
+            - Vetur
+            - AutoRename Tag
+            - Color Hilight
+            - Prettier Code Formatter
+            - Live Server (optional)
+        - Vue JS devtools
+        - Vue CLI
+        - Vue CLI
+          
 
 # laptop
 https://www.bnn.in.th/th/p/notebook/notebook-by-brands/hp-notebook-by-brands?in_stock=true&sort_by=relevance&page=1&attributes=processor%3Aintel-core-i7-12700h
